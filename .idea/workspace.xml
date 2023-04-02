@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b0d61e-9fb2-48ea-ba3c-5f90cb3a0137" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayChallenge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise3Swap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise5ReverseString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise7OddorEven.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise8MaxNumber.kt" afterDir="false" />
-    </list>
+    <list default="true" id="39b0d61e-9fb2-48ea-ba3c-5f90cb3a0137" name="Changes" comment="Kotlin Exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +91,19 @@
       <option name="presentableId" value="Default" />
       <updated>1680374840948</updated>
     </task>
+    <task id="LOCAL-00001" summary="Kotlin Exercise">
+      <created>1680453044474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680453044474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kotlin Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
